@@ -1,0 +1,7 @@
+.navbar{
+    border: 1px rgb(73, 182, 10) solid;
+    grid-area: navbar;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+}
